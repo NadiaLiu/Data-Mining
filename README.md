@@ -1,4 +1,3 @@
-# File with heading
 
 Six exercise in Data Mining:  
 1-Regression  
